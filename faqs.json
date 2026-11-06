@@ -1,0 +1,67 @@
+[
+  {
+    "category": "General & Institutional Information",
+    "question": "Where is RISE Krishna Sai Group of Institutions located and when was it established?",
+    "answer": "RISE Krishna Sai Group of Institutions was established in 2009 by the Rural Institute of Social and Economic Empowerment (RISE). It is located on NH-16 (formerly NH-5) at Valluru, Ongole, Prakasam District, Andhra Pradesh - 523272."
+  },
+  {
+    "category": "Affiliation & Accreditation",
+    "question": "What is the affiliation and accreditation status of the college?",
+    "answer": "The college is approved by AICTE, New Delhi, permanently affiliated with Jawaharlal Nehru Technological University Kakinada (JNTUK), has Autonomous status, and is accredited with NAAC 'A+' Grade as well as NBA accreditation for major engineering branches."
+  },
+  {
+    "category": "Engineering Departments & Programs",
+    "question": "What undergraduate (B.Tech) courses are offered at RISE?",
+    "answer": "The college offers 4-year B.Tech degrees in Computer Science & Engineering (CSE), CSE with Artificial Intelligence & Machine Learning (CSM), CSE with Data Science (CSD), Electronics & Communication Engineering (ECE), Electrical & Electronics Engineering (EEE), Civil Engineering (CE), and Mechanical Engineering (ME)."
+  },
+  {
+    "category": "Postgraduate Programs",
+    "question": "What postgraduate (PG) courses are offered at RISE?",
+    "answer": "RISE offers 2-year Master of Business Administration (MBA), Master of Computer Applications (MCA), and M.Tech specializations in Computer Science & Engineering and VLSI / Signal Processing."
+  },
+  {
+    "category": "Admissions & Counseling Codes",
+    "question": "What are the counseling codes for EAPCET and admissions criteria?",
+    "answer": "Admissions for B.Tech are primarily through AP EAPCET counseling (Convenor Quota Category-A) with college counseling codes such as RPRA (Prakasam) and RGON / Category-B management quota. PG admissions occur through AP ICET (MBA/MCA) and GATE / AP PGECET (M.Tech)."
+  },
+  {
+    "category": "Academic Regulations & Attendance",
+    "question": "What is the mandatory attendance percentage required for semester exams?",
+    "answer": "As per JNTUK and autonomous university guidelines, students must secure a minimum of 75% aggregate attendance to be eligible for end-semester examinations. Medical condonation between 65% and 74% requires valid medical certificates and principal approval with a condonation fee."
+  },
+  {
+    "category": "Examinations & Grading",
+    "question": "How does the internal assessment and grading system work?",
+    "answer": "Courses evaluate students on Continuous Internal Assessment (mid-term tests, subjective exams, objective quizzes, and assignments) typically weighted at 30% to 40%, and Semester End Examinations weighted at 60% to 70%, following standard SGPA and CGPA 10-point scale calculations."
+  },
+  {
+    "category": "Placements & Training",
+    "question": "How is the placement training and which companies recruit from RISE?",
+    "answer": "The college has an active Training and Placement Cell providing mock interviews, technical coding drills, and CRT programs. Recruiters visiting campus include TCS, Infosys, Wipro, Cognizant, Tech Mahindra, HCL, and Accenture, with packages ranging from 3.5 LPA to 7+ LPA."
+  },
+  {
+    "category": "Hostel Facilities",
+    "question": "What hostel facilities are provided for boys and girls?",
+    "answer": "Separate on-campus residential hostels are provided for both boys and girls with capacity for 500+ residents each. Facilities include secure entry, modern dining halls with hygienic RO purified drinking water, Wi-Fi connectivity, hot water, and indoor recreational areas."
+  },
+  {
+    "category": "Transport & Bus Routes",
+    "question": "Does the college provide bus transport facilities?",
+    "answer": "Yes, a fleet of college buses operates across Ongole town, Singarayakonda, Tangutur, Kandukur, Addanki, Chimakurthy, and surrounding towns across Prakasam district for day-scholar students and faculty."
+  },
+  {
+    "category": "Library & Digital Resources",
+    "question": "What are the library timings and facilities?",
+    "answer": "The central library holds tens of thousands of volumes, textbooks, national/international journals, and competitive exam books (GATE, GRE). It features a dedicated Digital Library section with high-speed internet for accessing IEEE e-journals, NPTEL video lectures, and DELNET resources."
+  },
+  {
+    "category": "Campus Amenities & Labs",
+    "question": "What other facilities and labs are available on campus?",
+    "answer": "The campus includes modern computer centers, IoT and embedded systems labs, high-speed campus Wi-Fi, an on-campus cafeteria, an auditorium for fests, sports grounds for cricket, volleyball, and basketball, and a medical first-aid dispensary with emergency response."
+  },
+  {
+  "category": "Library & Digital Resources",
+  "question": "What are the library timings and facilities?",
+  "answer": "The central library is open Monday through Saturday from 8:00 AM to 6:00 PM. During semester examinations, it offers extended hours until 8:00 PM. It features tens of thousands of textbooks, journals, and a dedicated Digital Library section with high-speed internet for IEEE and NPTEL access."
+}
+]
